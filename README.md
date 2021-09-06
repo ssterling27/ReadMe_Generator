@@ -1,41 +1,41 @@
-# My First ReadMe Mozilla Public License 2.0
+# My Second ReadMe (MIT License)
 
   ## Table of Contents
 
   1. <a href="#desc">Description</a>
-  2. [ Installation Instructions. ] (#install)
-  3. [ Usage Information. ] (#usage)
-  4. [ Contribution Guidelines. ] (#contribution)
-  5. [ Test Instructions. ] (#test)
-  6. [ License. ] (#license)
-  7. [ Questions. ] (#questions)
-
+  2. <a href="#install">Installation Instructions</a>
+  3. <a href="#usage">Usage Information</a>
+  4. <a href="#contribution">Contribution Guidelines</a>
+  5. <a href="#test">Test Instructions</a>
+  6. <a href="#license">License</a>
+  7. <a href="#questions">Questions</a>
+ 
   ## <a name="desc">Description</a>
 
-  This is my first ReadMe :)
-  <a name="insall"></a>
-  ## Installation Instructions
+  This is my second ReadMe
 
-  read and ejoy
-  <a name="usage"></a>
-  ## Usage Information
+  ##  <a name="install">Installation Instructions</a>
+
+  install with purpose
   
-  use wisely
-  <a name="contribution"></a>
-  ## Contribution Guidelines
+  ## <a name="usage">Usage Information</a>
+  
+  use sacredly
+  
+  ## <a name="contribution">Contribution Guidelines</a>
 
-  contribute freely
-  <a name="test"></a>
-  ## Test Instructions
+  contribute like you mean it
+  
+  ## <a name="test">Test Instructions<a>
 
-  test normally
-  <a name="license"></a>
-  ## License
+  test freely
+  
+  ## <a name="license">License</a>
 
-  Mozilla Public License 2.0
-  <a name="questions"></a>
-  ## Questions
+  MIT License
+  
+  ## <a name="questions">Questions</a>
 
   <a href='https://github.com/ssterling27'>ssterling27</a>
-  ssterline28@gmail.com
+  ssterling2789@gmail.com
   
