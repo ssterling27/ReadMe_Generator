@@ -1,4 +1,4 @@
-# My Second ReadMe [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# My ReadMe ([![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0))
 
   ## Table of Contents
 
@@ -12,27 +12,27 @@
  
   ## <a name="desc">Description</a>
 
-  This is my second ReadMe
+  This is a test ReadMe
 
   ##  <a name="install">Installation Instructions</a>
 
-  install with purpose
+  Install normally
   
   ## <a name="usage">Usage Information</a>
   
-  use sacredly
+  Use normally
   
   ## <a name="contribution">Contribution Guidelines</a>
 
-  contribute like you mean it
+  Contribute normally
   
   ## <a name="test">Test Instructions<a>
 
-  test freely
+  Test normally
   
   ## <a name="license">License</a>
 
-  MIT License
+  Mozilla Public License 2.0
   
   ## <a name="questions">Questions</a>
 
