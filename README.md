@@ -2,7 +2,7 @@
 
   ## Table of Contents
 
-  1. [ Description. ] (#desc)
+  1. <a href="#desc">Description</a>
   2. [ Installation Instructions. ] (#install)
   3. [ Usage Information. ] (#usage)
   4. [ Contribution Guidelines. ] (#contribution)
